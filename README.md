@@ -19,4 +19,6 @@
 # javaScriptで出来ること
 
 ####JavaScriptは、Webコンテンツに動きを与えた
+- JavaScriptの登場以前、Webブラウザは文章や画像などの静的なWebコンテンツしか扱えませんでした。1995年、Netscapeのブレンダン・アイク（Brendan Eich）は、Webコンテンツを動的に扱うためのスクリプト言語としてLiveScriptを発表し、Netscape Navigator 2.0というWebブラウザに搭載しました。
 
+　NetscapeはJavaを開発していたサン・マイクロシステムズと技術提携を行い、LiveScriptはJavaScriptという名前に変更されました。勘違いされやすいのですが、JavaScriptとJavaは言語としてはそれほど似ていません。JavaScriptという名前は、「Javaよりも初心者やデザイナーが容易に利用できる言語である」という当時のマーケティング的な思惑から付けられたのです。
