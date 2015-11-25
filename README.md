@@ -4,7 +4,7 @@
   -Javaの方の考え方は大きな抽象的な枠組みを作ってからそれの具体的な物を作っていくという考え方でプログラミングする   
   -JavaScriptは具体的な物を、その具体的な物と関係のある具体的なものを作っていくという考え方でプログラミングする  
   
-##2つは[インド](http://www.in.emb-japan.go.jp/index-j.html)とインドネシアほど違う！  
+##2つは[インド](http://www.in.emb-japan.go.jp/index-j.html)と[インドネシア](http://www.id.emb-japan.go.jp/index_jp.html)ほど違う！  
 ##メロンとメロンパンほど違う！  
   
 #_詳細_
