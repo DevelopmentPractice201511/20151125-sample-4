@@ -32,3 +32,5 @@
 ###ActionScript
 - アドビ システムズのFlashやFlexのスクリプティング言語であるActionScriptはJavaScriptを拡張して作られています。
 
+###HTA（HTML Application）
+- マイクロソフトのInternet Exproler 5以降で利用できる機能で、HTMLやVBScript、JavaScriptを利用して、簡易的なデスクトップアプリケーションを作れます。
