@@ -15,3 +15,4 @@
 >Javaコードはコンパイルする必要がありますが、
 >JavaScriptコードはすべてテキスト形式です。
 >これらには異なるプラグインが必要です。
+###[JavaScriptとJavaとの違い](https://www.java.com/ja/download/faq/java_javascript.xml)
