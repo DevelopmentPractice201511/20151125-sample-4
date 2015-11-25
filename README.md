@@ -34,3 +34,7 @@
 
 ###HTA（HTML Application）
 - マイクロソフトのInternet Exproler 5以降で利用できる機能で、HTMLやVBScript、JavaScriptを利用して、簡易的なデスクトップアプリケーションを作れます。
+
+
+###Aptana Jaxer
+- サーバサイドJavaScriptの1実装です。Webアプリケーションのサーバ側もJavaScriptで記述できます。
