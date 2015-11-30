@@ -92,7 +92,7 @@
 #●JavaScriptはどんな所で使われているのか
 
 ## webで出来ることが広がる
--・twitter
+#####・twitter
 ## FirefoxやChromeの拡張を作れる
 
  - [mozila 拡張機能開発入門](https://dev.mozilla.jp/2009/09/intro/)
