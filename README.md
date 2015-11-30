@@ -4,7 +4,7 @@
 #●JavaScriptはどんな所で使われているのか
 
 ## webで出来ることが広がる
-
+-HTMLとCSSだけではどうしても限界がありますが、JavaScriptを使うことで様々な機能や動きを実装することができます。またtwitterやFacebook、I  nstagramといった多くのWebサービスはAPIを公開していますので、JavaScriptからそれらを利用することが出来ます。例えばJavaScriptとtwitterの  APIを使ってtwitterのタイムラインを表示したり、FacebookのAPIを用いてイイねボタンを表示したりといったことが可能です。     HTMLとCSSだけでは出来なかった「機能」を実装することができるようになります。Webで出来る事、可能性が広がるのです。
 ## FirefoxやChromeの拡張を作れる
 
  - [mozila 拡張機能開発入門](https://dev.mozilla.jp/2009/09/intro/)
