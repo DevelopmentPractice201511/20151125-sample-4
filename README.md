@@ -93,6 +93,9 @@
 
 ## webで出来ることが広がる
 #####・twitter
+#####・Facebook
+#####・Instagram
+
 ## FirefoxやChromeの拡張を作れる
 
  - [mozila 拡張機能開発入門](https://dev.mozilla.jp/2009/09/intro/)
