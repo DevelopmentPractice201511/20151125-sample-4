@@ -15,7 +15,7 @@
 - JavaScriptはWebサイトを作成するだけではありません。AndroidやiOSのネイティブアプリだって開発可能です。Titanium                     Mobileを使えばJavaScriptを使ってAndroidやiPhoneアプリを開発することが出来ます。実際に数多くのアプリがTitanium Mobileによって産み出されています。
 
 ## サーバーサイドもNode.jsで開発できる
--これまでJavaScriptはクライアントサイドの言語としてブラウザ上でしか動かすことができませんでしたが、Node.jsというサーバサイドでJavaScri  ptを動かす技術が出てきたことで、その利用範囲がサーバー側にも広がりました。Node.jsは導入事例も増えてきているので今後も要注目です。
+- これまでJavaScriptはクライアントサイドの言語としてブラウザ上でしか動かすことができませんでしたが、Node.jsというサーバサイドでJavaScr   iptを動かす技術が出てきたことで、その利用範囲がサーバー側にも広がりました。Node.jsは導入事例も増えてきているので今後も要注目です。
 - [Node.jsでサーバサイドJavaScript開発入門](http://www.atmarkit.co.jp/fwcr/index/index_nodejs.html)
 - [node.jsに関する基礎や開発・チュートリアルのまとめ](http://phpspot.org/blog/archives/2011/02/nodejs.html)
 
