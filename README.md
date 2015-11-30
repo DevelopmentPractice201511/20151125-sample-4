@@ -12,7 +12,7 @@
  - [Chromeのオリジナル拡張機能開発方法](http://liginc.co.jp/web/tool/browser/163575)
  
 ## Android,iPhoneアプリも開発も出来る
--JavaScriptはWebサイトを作成するだけではありません。AndroidやiOSのネイティブアプリだって開発可能です。Titanium              Mobileを使えばJavaScriptを使ってAndroidやiPhoneアプリを開発することが出来ます。実際に数多くのアプリがTitanium Mobileによって産み出されています。
+- JavaScriptはWebサイトを作成するだけではありません。AndroidやiOSのネイティブアプリだって開発可能です。Titanium                     Mobileを使えばJavaScriptを使ってAndroidやiPhoneアプリを開発することが出来ます。実際に数多くのアプリがTitanium Mobileによって産み出されています。
 
 ## サーバーサイドもNode.jsで開発できる
 
